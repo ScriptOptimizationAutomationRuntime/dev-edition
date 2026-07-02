@@ -1,0 +1,2 @@
+__init__.py is your main script. You can tell it to run other scripts.
+You can drop it in public ME (Modded Edition) in soar-mods to test it.
